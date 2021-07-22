@@ -1376,6 +1376,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://books.japila.pl/apache-spark-internals/serializer/JavaSerializerInstance/</loc>
+         <lastmod>2021-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://books.japila.pl/apache-spark-internals/serializer/KryoSerializer/</loc>
          <lastmod>2021-07-22</lastmod>
          <changefreq>daily</changefreq>
