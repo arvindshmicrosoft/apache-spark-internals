@@ -1436,6 +1436,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://books.japila.pl/apache-spark-internals/shuffle/DownloadFileManager/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://books.japila.pl/apache-spark-internals/shuffle/ExecutorDiskUtils/</loc>
          <lastmod>2021-07-24</lastmod>
          <changefreq>daily</changefreq>
