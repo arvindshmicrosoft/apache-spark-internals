@@ -71,6 +71,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://books.japila.pl/apache-spark-internals/OutputCommitCoordinator/</loc>
+         <lastmod>2021-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://books.japila.pl/apache-spark-internals/RDDBarrier/</loc>
          <lastmod>2021-08-01</lastmod>
          <changefreq>daily</changefreq>
@@ -1242,11 +1247,6 @@
     </url>
     <url>
          <loc>https://books.japila.pl/apache-spark-internals/scheduler/MapStatus/</loc>
-         <lastmod>2021-08-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://books.japila.pl/apache-spark-internals/scheduler/OutputCommitCoordinator/</loc>
          <lastmod>2021-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
