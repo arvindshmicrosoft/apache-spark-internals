@@ -151,6 +151,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://books.japila.pl/apache-spark-internals/Tags/</loc>
+         <lastmod>2021-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://books.japila.pl/apache-spark-internals/TaskCompletionListener/</loc>
          <lastmod>2021-08-02</lastmod>
          <changefreq>daily</changefreq>
@@ -452,11 +457,6 @@
     </url>
     <url>
          <loc>https://books.japila.pl/apache-spark-internals/exercises/spark-examples-wordcount-spark-shell/</loc>
-         <lastmod>2021-08-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://books.japila.pl/apache-spark-internals/exercises/spark-exercise-custom-rdd/</loc>
          <lastmod>2021-08-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -877,6 +877,11 @@
     </url>
     <url>
          <loc>https://books.japila.pl/apache-spark-internals/rdd/HashPartitioner/</loc>
+         <lastmod>2021-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://books.japila.pl/apache-spark-internals/rdd/LocalCheckpointRDD/</loc>
          <lastmod>2021-08-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
