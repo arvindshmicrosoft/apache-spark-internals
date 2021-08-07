@@ -186,6 +186,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://books.japila.pl/apache-spark-internals/local-properties/</loc>
+         <lastmod>2021-08-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://books.japila.pl/apache-spark-internals/master/</loc>
          <lastmod>2021-08-07</lastmod>
          <changefreq>daily</changefreq>
@@ -222,11 +227,6 @@
     </url>
     <url>
          <loc>https://books.japila.pl/apache-spark-internals/spark-properties/</loc>
-         <lastmod>2021-08-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://books.japila.pl/apache-spark-internals/spark-sparkcontext-local-properties/</loc>
          <lastmod>2021-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
