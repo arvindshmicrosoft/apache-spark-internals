@@ -156,6 +156,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://books.japila.pl/apache-spark-internals/TaskFailureListener/</loc>
+         <lastmod>2021-08-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://books.japila.pl/apache-spark-internals/Utils/</loc>
          <lastmod>2021-08-07</lastmod>
          <changefreq>daily</changefreq>
